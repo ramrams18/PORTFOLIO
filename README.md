@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# My_Portfolio
 
-You can use the [editor on GitHub](https://github.com/ramrams18/my-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# [Project 1: Image-to-Image Translation with Conditional Adversarial Networks (Colorization).](https://github.com/ramrams18/Image-to-Image-Translation-with-Conditional-Adversarial-Networks-Colorization)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A general purpose solution to Image-to-image translation problems
 
-### Markdown
+In our project we are taking black and white images and converting them into color images.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Networks learn the mapping from input channel (L) to output channels (ab) and try to           generate images using latent space that can fool the discriminator.
 
-```markdown
-Syntax highlighted code block
+We are using a CNN Generator and CNN Discriminator to achieve our results.
 
-# Header 1
-## Header 2
-### Header 3
+![](https://github.com/ramrams18/my-portfolio/blob/main/images/proj1.png)
 
-- Bulleted
-- List
+# [Project 2: Image Captioning with Conditioned LSTM Generators on flickr8k Data.](https://github.com/ramrams18/Image-Captioning-with-Conditioned-LSTM-Generators)
 
-1. Numbered
-2. List
+* Pytorch Implementation
 
-**Bold** and _Italic_ and `Code` text
+Results:
 
-[Link](url) and ![Image](src)
-```
+* Training is done in the notebook as well as inference towards the end
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* I have created multiple models which are tested in different epochs and their varrying performence
 
-### Jekyll Themes
+* To change the model encoder and decoder simply load the appropriate decoder-num_epoch.pkl file
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramrams18/my-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Lot more traingin is required to get accurate predictions like more then 3 epochs 
+  the predictions as of right now are somewhat accurate
 
-### Support or Contact
+* Epoch [3/3], Loss: 2.2159, Perplexity: 9.1694 --> so requires more training with different hyper parameters
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Project 3: Artificial Intelligence Projects.](https://github.com/ramrams18/Artificial-Intelligence)
+
+Computer science defines AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+
+A typical AI analyzes its environment and takes actions that maximize its chance of success, Goals can be explicitly defined or induced.
+
+AI often revolves around the use of algorithms. An algorithm is a set of unambiguous instructions that a mechanical computer can execute.
+
+Many AI algorithms are capable of learning from data; they can enhance themselves by learning new heuristics (strategies that have worked well in the past), or can themselves write other algorithms.
+
+![](https://github.com/ramrams18/my-portfolio/blob/main/images/proj2.png)
+
+Projects I worked on.
+
+1] Uninformed and Informed Search.
+
+2] Game Playing.
+
+3] Posterior Probability.
+
+4] Bayesian-Network.
+
+# [Project 4: AmazonShopping Web App.](https://github.com/ramrams18/AmazonShopping-Web-App)
+
+Developed a demo web application for customers where they can buy products and offer services.
+
+Implemented frontend using JavaScript and HTML. 
+
+# [Project 5: Implementation of KNN Algorithm on USPS Dataset.](https://github.com/ramrams18/Handwritten-digits-USPS-dataset)
+
+Reading Handwritten Data in Python (JupyterNotebook)
+
+Machine Learning with Scikit Learn, Keras and TensorFlow.
+
+USPS dataset that achieved over 90% accuracy over the test set using K -Neighbors classifier.
