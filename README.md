@@ -10,7 +10,7 @@ Networks learn the mapping from input channel (L) to output channels (ab) and tr
 
 We are using a CNN Generator and CNN Discriminator to achieve our results.
 
-![](https://github.com/ramrams18/my-portfolio/blob/main/images/proj1.png)
+![](/images/proj1.png)
 
 # [Project 2: Image Captioning with Conditioned LSTM Generators on flickr8k Data.](https://github.com/ramrams18/Image-Captioning-with-Conditioned-LSTM-Generators)
 
@@ -39,7 +39,7 @@ AI often revolves around the use of algorithms. An algorithm is a set of unambig
 
 Many AI algorithms are capable of learning from data; they can enhance themselves by learning new heuristics (strategies that have worked well in the past), or can themselves write other algorithms.
 
-![](https://github.com/ramrams18/my-portfolio/blob/main/images/proj2.png)
+![](/images/proj2.png)
 
 Projects I worked on.
 
