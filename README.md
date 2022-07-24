@@ -1,8 +1,8 @@
-# [Project 1: Cloud-Computing.](https://github.com/ramrams18/Cloud_Computing)
+# [Project 1: Cloud-Computing.](https://github.com/ramrams18/Cloud_Computing) 
 
-In this projects, I have used three cloud platforms.
+Created Web apps on range calculation, cache time detection, radius finding, data distribution charts, adding and searching content, and course registration with three different logins such as teacher, student, and admin. Flask was used to create and host web apps. Executed DB queries and set up a load balancer to distribute inbound traffic.
 
-I have created and hosted web apps using Flask. Ran DB queries, Implemented load balancer to distribute inbound flow. 
+In this project, I deployed on the web using three cloud platforms: 
 
 * IBM Cloud.
 
